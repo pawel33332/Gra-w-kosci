@@ -1,0 +1,18 @@
+{
+    "player_win": {
+        "player1": 0,
+        "player2": 0
+    },
+    "player_score": {
+        "player1": 0,
+        "player2": 0
+    },
+    "player_win_with_computer": {
+        "player1": 0,
+        "playerCPU": 0
+    },
+    "player_with_computer_score": {
+        "player1": 0,
+        "playerCPU": 0
+    }
+}
